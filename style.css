@@ -1,0 +1,16 @@
+*  {
+  padding: 0px;
+  margin: 0px;
+}
+
+.btn-center {
+  text-align: center;
+}
+
+.btn-left {
+  text-align: left !important;
+}
+
+.btn-right {
+  text-align: right !important;
+}
